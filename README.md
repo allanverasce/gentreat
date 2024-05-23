@@ -3,8 +3,10 @@
 
 # Authors
 <p>Victória Cardoso dos Santos<sup>1</sup>, Gislenne da Silva Moia<sup>1</sup>, Mônica Silva de Oliveira<sup>2</sup>, Jorianne Thyeska Castro Alves<sup>3</sup>, Pablo Henrique Caracciolo Gomes de Sá<sup>3</sup>, Adonney Allan de Oliveira Veras<sup>4</sup></p>
--1- Universidade Federal do Pará (UFPA) -Campus Tucuruí; -2- Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA); -3- Universidade Federal Rural da Amazônia (UFRA)-Campus Tomé-Açú
--4 - Faculdade de Computação da Universidade Federal do Pará (UFPA) -Campus Castanhal
+- 1- Universidade Federal do Pará (UFPA) -Campus Tucuruí; 
+- 2- Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA); 
+- 3- Universidade Federal Rural da Amazônia (UFRA)-Campus Tomé-Açú
+- 4 - Faculdade de Computação da Universidade Federal do Pará (UFPA) -Campus Castanhal
 # Article 
 https://ojs.brazilianjournals.com.br/ojs/index.php/BJHR/article/view/63258
 
