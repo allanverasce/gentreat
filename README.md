@@ -12,7 +12,7 @@
 
 # Article 
 How to Cite this article
-DOS SANTOS, V. C.; MOIA, G. da S.; DE OLIVEIRA, M. S.; ALVES, J. T. C.; DE SÁ, P. H. C. G.; VERAS, A. A. de O. GenTreat – computational pipeline for hybrid assembly of prokaryotic genomes. Brazilian Journal of Health Review, [S. l.], v. 6, n. 5, p. 22348–22382, 2023. DOI: 10.34119/bjhrv6n5-271. Disponível em: https://ojs.brazilianjournals.com.br/ojs/index.php/BJHR/article/view/63258.
+<p align="justify">DOS SANTOS, V. C.; MOIA, G. da S.; DE OLIVEIRA, M. S.; ALVES, J. T. C.; DE SÁ, P. H. C. G.; VERAS, A. A. de O. GenTreat – computational pipeline for hybrid assembly of prokaryotic genomes. Brazilian Journal of Health Review, [S. l.], v. 6, n. 5, p. 22348–22382, 2023. DOI: 10.34119/bjhrv6n5-271. Disponível em: https://ojs.brazilianjournals.com.br/ojs/index.php/BJHR/article/view/63258.</p>
 
 # Screenshots
 ![image](https://github.com/allanverasce/gentreat/assets/25986290/84241434-7534-43de-89c8-8a826a0946dd)
